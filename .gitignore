@@ -1,0 +1,6 @@
+# Project exclude paths
+/v1/target/
+/v2/target/
+/v3/target/
+/v6/target/
+/v8/target/
